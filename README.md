@@ -1,4 +1,6 @@
-🌸 My name is Tuchi,tring to find something interesting now.
+🌸 My name is Tuchi . 
+   Maybe I will find some skill i love one day. 
+   But, 道阻且长，行则将至
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
