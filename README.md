@@ -1,10 +1,10 @@
-
+🌸 My name is Tuchi,tring to find something interesting now.
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+MetaProgramming
 ```
 
 <!--END_SECTION:waka-->
